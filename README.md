@@ -1,7 +1,7 @@
 <h1 align="center">💻 Landing Page Ninja Xpress Panjalu</h1>
 <h3 align="center">Landing Page Promosi Ninja Xpress Panjalu Kota Tasikmalaya</h3>
 
-- 📝 Dibangun Menggunakan: [Awesome, AOS, CSS, HTML](Awesome, AOS, CSS, HTML)
+- 📝 Dibangun Menggunakan: **JS, AOS, CSS, HTML**
 
 - 📫 How to reach me **irenakusumadewi9@gmail.com**
 
